@@ -1,20 +1,29 @@
-<h1 align="center">Hi 👋, I'm Rashmi Kavindya</h1>
-<h3 align="center">Undergraduate at SLIIT|Computer System and Network Engineering</h3>
+### Hi there 👋 I'm Rashmi Kavindya
 
-- 🌱 I’m currently learning **C,C++,Java Script,networking,System administration**
+🎯 A passionate DevOps enthusiast and server administrator from Sri Lanka, currently pursuing a BSc (Hons) in Information Technology specializing in Computer Systems and Network Engineering at SLIIT. I'm also gaining hands-on experience as a DevOps Engineering Intern at Sri Lanka Telecom, where I work with CI/CD, Docker, and Linux systems.
 
-- 📫 How to reach me **rashmikavindya09@gmail.com**
+---
 
-- ⚡ Fun fact **call me Rashmi**
+🔧 **Current Focus**  
+- DevOps tools & practices (CI/CD, GitHub Actions)  
+- Linux server administration and scripting  
+- Docker, monitoring solutions  
+- Automating deployments using GitHub Secrets and deploy scripts  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rashmi kavindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi kavindya" height="30" width="40" /></a>
-</p>
+🧰 **Tech Stack**
+- 🖥️ Linux, CentOS, Ubuntu  
+- 🐳 Docker, GitHub Actions, Shell script 
+- 🧪 Zabbix, Nagios  
+- 🧠 MySQL, C++, Python, Bash
+- 🗃️ MySQL, VirtualBox/VMware 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+📌 **On my radar**  
+Learning Kubernetes, Terraform, and improving infrastructure as code (IaC) skills.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it22195784&show_icons=true&locale=en&layout=compact" alt="it22195784" /></p>
+📫 **Reach me at**  
+- Email: rashmikavindya@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/rashmi-kavindya-8a8a4225b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3I1DaVLzQ8e%2Bt9JKLJ2CKQ%3D%3D 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it22195784&show_icons=true&locale=en" alt="it22195784" /></p>
+---
+
+✨ “Automating today, to innovate tomorrow.”    
