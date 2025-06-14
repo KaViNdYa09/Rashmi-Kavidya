@@ -21,7 +21,7 @@
 Learning Kubernetes, Terraform, and improving infrastructure as code (IaC) skills.
 
 📫 **Reach me at**  
-- Email: rashmikavindya@gmail.com  
+- Email: rashmikavindya09@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/rashmi-kavindya-8a8a4225b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3I1DaVLzQ8e%2Bt9JKLJ2CKQ%3D%3D 
 
 ---
